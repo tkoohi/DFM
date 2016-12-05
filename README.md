@@ -47,6 +47,6 @@ This page introduces the basic features of dfm and how to install and run it wit
 
 1.1 Register a GitHub account and fork your own branch
 
-Go to the repository page (https://github.com/tkoohi/dfm) and click 'Fork' on the top-right corner next to 'Star'. Then you will have your own branch of WorkflowSim and you can maintain your codes under this branch and commit your changes to it. In this example, we use 'chenww05' as an example and you will see a new repo called chenww05/WorkflowSim-1.0. Go to your repo, and copy the path. In this case, it is "https://github.com/chenww05/dfm.git". 
+Go to the repository page (https://github.com/tkoohi/dfm) and click 'Fork' on the top-right corner next to 'Star'. Then you will have your own branch of DFM and you can maintain your codes under this branch and commit your changes to it. In this example, we use 'chenww05' as an example and you will see a new repo called chenww05/dfm. Go to your repo, and copy the path. In this case, it is "https://github.com/chenww05/dfm.git". 
 
 
